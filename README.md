@@ -1,5 +1,7 @@
 # -World-Hello-World 
 
+用 https://git.io/ 把https://github.com 的长网址刷为短网址。比如自由门下载地址：https://git.io/JJ7WJ 方便。爱博TV：https://git.io/JJ7W4
+
 自由翱翔世界
 
 请不要同时安装使用大陆任何软件；否则，会受到干扰破坏
