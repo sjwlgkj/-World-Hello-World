@@ -1,4 +1,5 @@
 # -World-Hello-World 
+本页链接短网址：https://git.io/JJ7wf
 
 破墙科学上网，用梯子翻墙，世界真相在眼前
 
@@ -8,7 +9,7 @@
 
 浏览器推荐：火狐浏览器
 
-推荐链接：https://git.io/ogate2  链接2：https://git.io/szzd  本页链接：https://git.io/JJ7Cm
+推荐链接：https://git.io/ogate2  链接2：https://git.io/szzd  
 
 安全翻墙  推荐绿色版：自由门、无界浏览
 
