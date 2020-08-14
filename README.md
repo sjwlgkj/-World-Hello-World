@@ -10,8 +10,16 @@
 
 推荐链接：https://git.io/ogate2  链接2：https://git.io/szzd  本页链接：https://git.io/JJ7Cm
 
-安全翻墙  推荐绿色版：
+安全翻墙  推荐绿色版：自由门、无界浏览
 
-自由门
+（三）、“神州明见”WEB网页版
+1、适合的设备
 
-无界浏览
+“神州明见”网页版适合于Apple苹果设备中使用，如苹果手机、IPad、Mac等，但是在安卓手机和电脑中也可以正常使用。
+2、安装和使用
+
+■ 进入此网址 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/szzdogate_v5.0.html
+
+■ 把此网页保存为html网页文件。（或者复制该网页中的所有代码，在手机或电脑中新建一个文本文件，把代码复制到里面，然后保存为html网页文件）
+
+■ 使用时，打开该html网页文件就可以直接突破网络封锁
