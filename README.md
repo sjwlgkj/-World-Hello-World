@@ -6,7 +6,7 @@
 
 浏览器推荐：火狐浏览器
 
-推荐链接：https://git.io/ogate2
+推荐链接：https://git.io/ogate2  链接2：https://git.io/szzd  本页链接：https://git.io/JJ7Cm
 
 安全翻墙  推荐绿色版：
 
