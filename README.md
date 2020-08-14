@@ -25,3 +25,15 @@
 ■ 把此网页保存为html网页文件。（或者复制该网页中的所有代码，在手机或电脑中新建一个文本文件，把代码复制到里面，然后保存为html网页文件）
 
 ■ 使用时，打开该html网页文件就可以直接突破网络封锁
+
+
+
+下载
+
+自由门：电脑版 https://git.io/JJ7WJ 安卓版 https://git.io/JJ7Vg
+
+无界浏览：电脑版 https://git.io/JJ7Ve 安卓版 https://git.io/JJ7Vc
+
+爱博TV：电脑版 https://git.io/JJ7W4
+
+“神州明见”WEB网页版：https://git.io/JJ7VP
