@@ -1,6 +1,6 @@
 # -World-Hello-World 
 
-用 https://git.io/ 把https://github.com 的长网址刷为短网址。比如自由门下载地址：https://git.io/JJ7WJ 方便。爱博TV：https://git.io/JJ7W4
+破墙科学上网，用梯子翻墙，世界真相在眼前
 
 自由翱翔世界
 
@@ -11,6 +11,8 @@
 推荐链接：https://git.io/ogate2  链接2：https://git.io/szzd  本页链接：https://git.io/JJ7Cm
 
 安全翻墙  推荐绿色版：自由门、无界浏览
+
+用 https://git.io/ 把https://github.com 的长网址刷为短网址。比如自由门下载地址：https://git.io/JJ7WJ 方便。爱博TV：https://git.io/JJ7W4
 
 （三）、“神州明见”WEB网页版
 1、适合的设备
