@@ -13,7 +13,7 @@
 
 安全翻墙  推荐绿色版：自由门、无界浏览
 
-用 https://git.io/ 把https://github.com 的长网址刷为短网址。比如自由门下载地址：https://git.io/JUZI3 方便。爱博TV：https://git.io/JUZIS
+用 https://git.io/ 把https://github.com 的长网址刷为短网址。比如自由门下载地址：https://git.io/JUZmk 方便。爱博TV：https://git.io/JUZIS
 
 （三）、“神州明见”WEB网页版
 1、适合的设备
@@ -31,7 +31,7 @@
 
 下载
 
-自由门：电脑版 https://git.io/JUZI3  安卓版 https://git.io/JUZtC
+自由门：电脑版 https://git.io/JUZmk  安卓版 https://git.io/JUZtC
 
 无界浏览：电脑版 https://git.io/JUZtu 安卓版 https://git.io/JUZtB
 
